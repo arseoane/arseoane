@@ -27,9 +27,4 @@ I enjoy learning and applying new technologies to real‑world problems.
 🔗 [LinkedIn](https://www.linkedin.com/in/antonrseoane)  
 📸 [Instagram](https://www.instagram.com/seoanedaw)
 
----
 
-## 🔥 GitHub Stats
-
-<!-- Optional: You can add some GitHub stats widgets here, e.g. -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arseoane&show_icons=true&theme=transparent)
