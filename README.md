@@ -24,7 +24,7 @@ I enjoy learning and applying new technologies to real‑world problems.
 
 ## 📫 Connect with me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/antonrseoane)  
-📸 [Instagram](https://www.instagram.com/seoanedaw)
+![LinkedIn Logo](https://favicone.com/linkedin.com) [LinkedIn](https://www.linkedin.com/in/antonrseoane)  
+![Instagram Logo](https://favicone.com/instagram.com) [Instagram](https://www.instagram.com/seoanedaw)
 
 
